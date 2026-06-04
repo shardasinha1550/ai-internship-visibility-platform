@@ -5,7 +5,7 @@
 
 
 ## Overview
-
+📎 [View Full Pitch Deck](./VC_Unstop_submission-_Sharda_Sinha.pdf)
 This project was developed for the **BITSHack Venture Capital Edition (December 2025)**, where it secured **2nd place** out of all competing teams.
 
 It is a venture proposal for an **AI-led internship engine** that solves a structural market failure in India's early-career hiring ecosystem — not by improving resumes or job listings, but by **engineering recruiter visibility** for skilled students from Tier-2 and Tier-3 colleges.
