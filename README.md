@@ -1,5 +1,5 @@
 # Automating Visibility in Early-Career Hiring
-### BITSHack Venture Capital Edition 2025 | 🥈 2nd Place
+### BITSHack Venture Capital Edition 2025 ( 2nd Place )
 
 > *"Talent Exists. Recruiter Attention Doesn't."*
 
@@ -74,7 +74,7 @@ Student Profile → Targeting Engine → Multi-Channel Outreach → Automated Fo
 - Already spending on resume services, LinkedIn Premium, prep courses
 
 
-## 📈 Business Model & Economics
+## Business Model & Economics
 
 | Metric | Value |
 |---|---|
